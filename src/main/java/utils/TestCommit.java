@@ -1,5 +1,8 @@
 package utils;
 
 public class TestCommit {
-	String ciao = "ciao";
+	public static void main(String[] args) {
+		System.out.println("perchè non vaaaa");
+	}
+	
 }
